@@ -1,3 +1,4 @@
 # assignment2-web
 
-Import database vào myphpadmin
+Import database vào php myadmin
+
